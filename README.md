@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jobreu/Going-Cross-Lingual_Course/binder)
+
 # Going Cross-Lingual
 
 This repository contains the materials for the GESIS Training course "Going Cross-Lingual: Computational Methods for Multilingual Text Analysis" taught by 
